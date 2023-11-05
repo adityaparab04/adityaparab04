@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Parab
 ====================================================================================================================================
 
-Full Stack Developer
+A Passionate Full Stack Developer
 --------------------
 
-I am an aspiring full stack developer, love to code in javascript. Making my way as a developer.
+I am a full stack developer, who loves to code in javascript, python and java. Making my way as a better developer, coder and a problem solver.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adityaparab04@gmail.com](mailto:adityaparab04@gmail.com)
