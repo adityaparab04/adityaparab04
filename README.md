@@ -8,7 +8,7 @@ I am a full stack developer, who loves to code in javascript, python and java. M
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adityaparab04@gmail.com](mailto:adityaparab04@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I work on Javscript, ReactJs, NodeJs, Express, Typescript, MongoDB, MySql, GraphQL..
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  I am a fitness enthusiast, I lift weights, play volleyball, swim and read books. Sometimes spend long hours on Leet code
 
