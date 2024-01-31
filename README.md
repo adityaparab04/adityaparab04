@@ -8,9 +8,9 @@ I am a full stack developer, who loves to code in javascript, python and java. M
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adityaparab04@gmail.com](mailto:adityaparab04@gmail.com)
-* 🧠  I work on Javscript, ReactJs, NodeJs, Express, Typescript, MongoDB, MySql, GraphQL..
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  I am a fitness enthusiast, I lift weights, play volleyball, swim and read books. Sometimes spend long hours on Leet code
+* 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, Django, MongoDB, MySql.
+* 🤝  Currently working as a fullstack developer @breathing.ai
+* ⚡  I am a Manchester United Suporter, I love to workout, watch anime and read books. Sometimes I spend long hours on Leetcode
 
 <a href="https://www.twitter.com/AdityaParab4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AdityaParab4?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -47,5 +47,27 @@ src="https://img.shields.io/github/followers/adityaparab04?logo=github&style=for
 
 <p align="left"> <a href="https://www.github.com/adityaparab04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adityaparab04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdityaParab4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adityaparab04)](https://git.io/streak-stats)
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- To get your streak stats use https://streak-stats.demolab.com - visit https://git.io/streak-stats for instructions - thanks to DenverCoder1 for these streak stats -->
+      <img alt="adityaparab's streak" src="https://streak-stats.demolab.com/?user=adityaparab04&theme=radical"/>
+    </a>
+  </p>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adityaparab04&theme=radical" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaparab04&layout=compact&langs_count=8&card_width=320&theme=radical" />
+    </a>
+  </p>
+  <b>Note:</b> Most Used Languages is only a metric of the languages in my public code repositories and doesn't reflect experience or skill level.
+</details>
