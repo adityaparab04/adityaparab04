@@ -109,17 +109,17 @@ I am a full stack developer, who loves to code in javascript, python and java. M
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="#">
       <!-- To get your streak stats use https://streak-stats.demolab.com - visit https://git.io/streak-stats for instructions - thanks to DenverCoder1 for these streak stats -->
       <img alt="adityaparab's streak" src="https://streak-stats.demolab.com/?user=adityaparab04&theme=radical"/>
     </a>
   </p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="#">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adityaparab04&include_all_commits=true&count_private=true&theme=radical" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="#">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaparab04&layout=compact&langs_count=8&card_width=320&theme=radical" />
     </a>
   </p>
