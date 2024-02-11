@@ -100,6 +100,8 @@ I am a full stack developer, who loves to code in javascript, python and java. M
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Xcode" src="https://custom-icon-badges.demolab.com/badge/Xcode-1D63ED.svg?logo=xcode&logoColor=white"></a>
   </p>
+  <br/>
+  <p><b>Note:<b> Sorted alphabetically and doesn't reflect order of understanding or liking.</p>
 </details>
 
 <details> 
@@ -123,5 +125,6 @@ I am a full stack developer, who loves to code in javascript, python and java. M
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaparab04&layout=compact&langs_count=8&card_width=320&theme=radical" />
     </a>
   </p>
+  <br/>
   <b>Note:</b> Most Used Languages is only a metric of the languages in my public code repositories and doesn't reflect experience or skill level.
 </details>
