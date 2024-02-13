@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Parab
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF428E&random=false&width=435&lines=Hello+World!+I'm+Aditya+Parab.)](https://git.io/typing-svg)
 ====================================================================================================================================
 
 A Passionate Full Stack Developer
