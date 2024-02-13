@@ -1,12 +1,13 @@
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF428E&random=false&width=435&lines=Hello+World!+I'm+Aditya+Parab.)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF428E&random=false&width=435&lines=Hello+World!+I'm+Aditya+Parab)](https://git.io/typing-svg)
 ====================================================================================================================================
 
 A Passionate Full Stack Developer
 --------------------
 
-I am a full stack developer, who loves to code in javascript, python and java. Making my way as a better developer, coder and a problem solver.
+I am a software engineer, who loves to code in javascript, typescript and python. Making my way as a better developer, coder and a problem solver.
 
 * 🌍  I'm based in New York
+* 🎓  I recently graduated with a Master's degree in Computer Science.
 * ✉️  You can contact me at [adityaparab04@gmail.com](mailto:adityaparab04@gmail.com)
 * 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, Django, MongoDB, MySql.
 * 🤝  Currently working as a fullstack developer @breathing.ai
