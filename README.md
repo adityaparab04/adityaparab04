@@ -7,9 +7,9 @@ A Passionate Full Stack Developer
 I am a software engineer, who loves to code in javascript, typescript and python. Making my way as a better developer, coder and a problem solver.
 
 * 🌍  I'm based in New York
-* 🎓  I recently graduated with a Master's degree in Computer Science.
+* 🎓  I am a software engineer with a Master's degree in Computer Science.
 * ✉️  You can contact me at [adityaparab04@gmail.com](mailto:adityaparab04@gmail.com)
-* 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, Django, MongoDB, MySql.
+* 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, Django, MongoDB, MySql, Go(learning).
 * 🤝  Currently working as a fullstack developer @breathing.ai
 * ⚡  I am a Manchester United Suporter, I love to workout, watch anime and read books. Sometimes I spend long hours on Leetcode
 
