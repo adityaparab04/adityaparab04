@@ -67,6 +67,7 @@ I am a software engineer, who loves to code in javascript, typescript and python
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Redux" src="https://custom-icon-badges.demolab.com/badge/Redux-764abc.svg?logo=redux&logoColor=white"></a>
       <a href="#"><img alt="Socket.IO" src="https://custom-icon-badges.demolab.com/badge/Socket.IO-80d280.svg?logo=socket.io"></a>
+      <a href="#"><img alt="Tailwind" src="https://custom-icon-badges.demolab.com/badge/Tailwind-94a3b8.svg?logo=tailwind"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
 
